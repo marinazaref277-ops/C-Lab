@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0639\u0628\u062F \u0627\u0644\u0631\u062D\u0645\u0646 \u0627\u062D\u0645\u062F\\programing\\ITI\\Ahmed Mamdouh c# OOP\\OOP C#\\Day3\\Labs\\Day3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A194359-3121-4278-97C9-589D03B8AFAE}|..\\..\\..\\Day4\\Labs\\Day4\\Day4.csproj|d:\\\u0639\u0628\u062F \u0627\u0644\u0631\u062D\u0645\u0646 \u0627\u062D\u0645\u062F\\programing\\iti\\ahmed mamdouh c# oop\\oop c#\\day4\\labs\\day4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A194359-3121-4278-97C9-589D03B8AFAE}|..\\..\\..\\Day4\\Labs\\Day4\\Day4.csproj|d:\\\u0639\u0628\u062F \u0627\u0644\u0631\u062D\u0645\u0646 \u0627\u062D\u0645\u062F\\programing\\iti\\ahmed mamdouh c# oop\\oop c#\\day4\\labs\\day4\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A194359-3121-4278-97C9-589D03B8AFAE}|..\\..\\..\\Day4\\Labs\\Day4\\Day4.csproj|d:\\\u0639\u0628\u062F \u0627\u0644\u0631\u062D\u0645\u0646 \u0627\u062D\u0645\u062F\\programing\\iti\\ahmed mamdouh c# oop\\oop c#\\day4\\labs\\day4\\picture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D9879B-1E0F-4BB4-B0F3-0581ADC3B087}|..\\..\\..\\Day2\\Labs\\Day2.Lab1\\Day2.Lab1.csproj|d:\\\u0639\u0628\u062F \u0627\u0644\u0631\u062D\u0645\u0646 \u0627\u062D\u0645\u062F\\programing\\iti\\ahmed mamdouh c# oop\\oop c#\\day2\\labs\\day2.lab1\\3dpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0639\u0628\u062F \u0627\u0644\u0631\u062D\u0645\u0646 \u0627\u062D\u0645\u062F\\programing\\ITI\\Ahmed Mamdouh c# OOP\\OOP C#\\Day4\\Labs\\Day4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Day4\\Labs\\Day4\\Program.cs",
+              "ToolTip": "D:\\\u0639\u0628\u062F \u0627\u0644\u0631\u062D\u0645\u0646 \u0627\u062D\u0645\u062F\\programing\\ITI\\Ahmed Mamdouh c# OOP\\OOP C#\\Day4\\Labs\\Day4\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Day4\\Labs\\Day4\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T04:53:12.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Picture.cs",
+              "DocumentMoniker": "D:\\\u0639\u0628\u062F \u0627\u0644\u0631\u062D\u0645\u0646 \u0627\u062D\u0645\u062F\\programing\\ITI\\Ahmed Mamdouh c# OOP\\OOP C#\\Day4\\Labs\\Day4\\Picture.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Day4\\Labs\\Day4\\Picture.cs",
+              "ToolTip": "D:\\\u0639\u0628\u062F \u0627\u0644\u0631\u062D\u0645\u0646 \u0627\u062D\u0645\u062F\\programing\\ITI\\Ahmed Mamdouh c# OOP\\OOP C#\\Day4\\Labs\\Day4\\Picture.cs",
+              "RelativeToolTip": "..\\..\\..\\Day4\\Labs\\Day4\\Picture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T21:56:07.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\\u0639\u0628\u062F \u0627\u0644\u0631\u062D\u0645\u0646 \u0627\u062D\u0645\u062F\\programing\\ITI\\Ahmed Mamdouh c# OOP\\OOP C#\\Day4\\Labs\\Day4\\Circle.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Day4\\Labs\\Day4\\Circle.cs",
+              "ToolTip": "D:\\\u0639\u0628\u062F \u0627\u0644\u0631\u062D\u0645\u0646 \u0627\u062D\u0645\u062F\\programing\\ITI\\Ahmed Mamdouh c# OOP\\OOP C#\\Day4\\Labs\\Day4\\Circle.cs",
+              "RelativeToolTip": "..\\..\\..\\Day4\\Labs\\Day4\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T21:56:00.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "3DPoint.cs",
+              "DocumentMoniker": "D:\\\u0639\u0628\u062F \u0627\u0644\u0631\u062D\u0645\u0646 \u0627\u062D\u0645\u062F\\programing\\ITI\\Ahmed Mamdouh c# OOP\\OOP C#\\Day2\\Labs\\Day2.Lab1\\3DPoint.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Day2\\Labs\\Day2.Lab1\\3DPoint.cs",
+              "ToolTip": "D:\\\u0639\u0628\u062F \u0627\u0644\u0631\u062D\u0645\u0646 \u0627\u062D\u0645\u062F\\programing\\ITI\\Ahmed Mamdouh c# OOP\\OOP C#\\Day2\\Labs\\Day2.Lab1\\3DPoint.cs",
+              "RelativeToolTip": "..\\..\\..\\Day2\\Labs\\Day2.Lab1\\3DPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T21:55:39.803Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

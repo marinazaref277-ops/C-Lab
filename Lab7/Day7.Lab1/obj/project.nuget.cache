@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "dgSpecHash": "7l5xcOQ8YQ4=",
+  "success": false,
+  "projectFilePath": "D:\\عبد الرحمن احمد\\programing\\ITI\\Ahmed Mamdouh c# OOP\\OOP C#\\Day7\\Labs\\Day7.Lab1\\Day7.Lab1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.WindowsDesktop.App.Ref. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "projectPath": "D:\\عبد الرحمن احمد\\programing\\ITI\\Ahmed Mamdouh c# OOP\\OOP C#\\Day7\\Labs\\Day7.Lab1\\Day7.Lab1.csproj",
+      "filePath": "D:\\عبد الرحمن احمد\\programing\\ITI\\Ahmed Mamdouh c# OOP\\OOP C#\\Day7\\Labs\\Day7.Lab1\\Day7.Lab1.csproj",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App.Ref. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "projectPath": "D:\\عبد الرحمن احمد\\programing\\ITI\\Ahmed Mamdouh c# OOP\\OOP C#\\Day7\\Labs\\Day7.Lab1\\Day7.Lab1.csproj",
+      "filePath": "D:\\عبد الرحمن احمد\\programing\\ITI\\Ahmed Mamdouh c# OOP\\OOP C#\\Day7\\Labs\\Day7.Lab1\\Day7.Lab1.csproj",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.App.Ref. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "projectPath": "D:\\عبد الرحمن احمد\\programing\\ITI\\Ahmed Mamdouh c# OOP\\OOP C#\\Day7\\Labs\\Day7.Lab1\\Day7.Lab1.csproj",
+      "filePath": "D:\\عبد الرحمن احمد\\programing\\ITI\\Ahmed Mamdouh c# OOP\\OOP C#\\Day7\\Labs\\Day7.Lab1\\Day7.Lab1.csproj",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App.Host.win-x64. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "projectPath": "D:\\عبد الرحمن احمد\\programing\\ITI\\Ahmed Mamdouh c# OOP\\OOP C#\\Day7\\Labs\\Day7.Lab1\\Day7.Lab1.csproj",
+      "filePath": "D:\\عبد الرحمن احمد\\programing\\ITI\\Ahmed Mamdouh c# OOP\\OOP C#\\Day7\\Labs\\Day7.Lab1\\Day7.Lab1.csproj",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

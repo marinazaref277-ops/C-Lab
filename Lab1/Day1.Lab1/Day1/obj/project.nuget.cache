@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GLrYJFSfUUc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LOQ\\Downloads\\C# OOP Ahmed Mamdouh Labs\\C# OOP Ahmed Mamdouh Labs\\Lab1\\Day1.Lab1\\Day1\\Day1.Lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LOQ\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\LOQ\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\LOQ\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\LOQ\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
